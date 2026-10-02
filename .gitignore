@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+*.zip
+
+# Trained models
+*.model
+*.h5
+*.keras
+
+# TFLearn / TensorBoard logs
+log/
+logs/
+
+# Environment / secrets
+.env

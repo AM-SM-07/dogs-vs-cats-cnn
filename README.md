@@ -5,7 +5,7 @@ as either Dog or Cat using a Convolutional Neural Network.
 
 ## 📌 Project Overview
 
-This project uses the Kaggle Dogs vs Cats dataset containing
+This project uses the Kaggle Dogs vs. Cats Redux: Kernels Edition dataset containing
 25,000 labeled training images.
 
 The objective is to build a CNN-based binary image
@@ -14,7 +14,7 @@ cats and dogs.
 
 ## 📊 Dataset
 
-Dataset: Kaggle Dogs vs Cats
+Dataset: Kaggle Dogs vs. Cats Redux: Kernels Edition
 
 Training Images: 25,000
 
